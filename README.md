@@ -11,4 +11,4 @@ In this project, I applied convolutional neural network for image classification
 
 ## Result 
 Result of VGG16 using transfer learning on 20 epochs.
-![result](https://raw.githubusercontent.com/)
+![result](Dog_vs_Cat/a.png)
