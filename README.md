@@ -1,7 +1,7 @@
 # Dog_vs_Cat
 # Image Classification - Cat or Dog
 
-Image classification refers to a process in computer vision that can classify an image according to its visual content. For example, an image classification algorithm may be designed to tell if an image contains a human figure or not. While detecting an object is trivial for humans, robust image classification is still a challenge in computer vision applications. This is a image classification project based on [Cat of Dog Kaggel competition](https://www.kaggle.com/c/dogs-vs-cats/overview/description).
+Image classification refers to a process in computer vision that can classify an image according to its visual content. For example, an image classification algorithm may be designed to tell if an image contains a human figure or not. While detecting an object is trivial for humans, robust image classification is still a challenge in computer vision applications. This is a image classification project.
 
 ```
 ## Details 
